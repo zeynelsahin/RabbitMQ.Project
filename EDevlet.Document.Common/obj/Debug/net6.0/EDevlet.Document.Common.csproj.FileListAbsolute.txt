@@ -1,0 +1,12 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\bin\Debug\net6.0\EDevlet.Document.Common.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\bin\Debug\net6.0\EDevlet.Document.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\bin\Debug\net6.0\EDevlet.Document.Common.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\refint\EDevlet.Document.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\EDevlet.Document.Common.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\RabbitMQ.Project\EDevlet.Document.Common\obj\Debug\net6.0\ref\EDevlet.Document.Common.dll

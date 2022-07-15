@@ -1,0 +1,42 @@
+﻿@inherits IndexBase
+@page "/"
+<PageTitle>Request</PageTitle>
+<Card Title="ConnectionString">
+    <ChildContent>
+        <MudGrid>
+            <MudItem xs="12" md="10">
+                <MudTextField Margin="Margin.Dense" @bind-Value="ConnectionString" Label="ConnectionString" Variant="Variant.Outlined"></MudTextField>
+            </MudItem>
+            <MudItem xs="12" md="2" Class="justify-center  align-self-center">
+                <MudButton Variant="Variant.Filled" OnClick="@Connect" Color="Color.Primary" Size="Size.Medium">@ConnectName</MudButton>
+            </MudItem>
+        </MudGrid>
+    </ChildContent>
+    <ChildAction>
+    </ChildAction>
+</Card>
+ <Card Title="Create Document">
+            <ChildContent>
+                <MudGrid Justify="Justify.Center">
+                    <MudItem>
+                        <MudButton Variant="Variant.Filled" OnClick="CreateDocument" Disabled="@(!isConnectionOpen)" Color="Color.Primary" Size="Size.Medium">Create Document</MudButton>
+                    </MudItem >
+                </MudGrid>
+            </ChildContent>
+            <ChildAction>
+            </ChildAction>
+        </Card>
+<Card Title="Log">
+    <ChildContent>
+        <MudGrid >
+            <MudItem xs="12">
+                @foreach (var log in Log)
+                {
+                    <MudAlert Dense="true" Style="margin-top: 3px" Severity="@log.Severity">@log.Message</MudAlert>
+                }
+            </MudItem >
+        </MudGrid>
+    </ChildContent>
+    <ChildAction>
+    </ChildAction>
+</Card>

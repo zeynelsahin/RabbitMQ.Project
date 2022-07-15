@@ -1,0 +1,28 @@
+﻿<MudCard Elevation="4" Style="@Css" >
+    <MudCardHeader>
+        <CardHeaderContent>
+            <MudText Typo="Typo.h4">@Title</MudText>
+        </CardHeaderContent>
+    </MudCardHeader>
+    <MudCardContent>
+        @ChildContent
+    </MudCardContent>
+    <MudCardActions>
+        @ChildAction
+    </MudCardActions>
+</MudCard>
+<br/>
+@code {
+
+    [Parameter]
+    public string Title { get; set; }
+    
+    [Parameter]
+    public string Css { get; set; }
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildAction { get; set; }
+
+}

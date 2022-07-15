@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document.Request", "Document.Request\Document.Request.csproj", "{E1FC93BB-D646-43B7-8552-6F835076E283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDevlet.Document.Common", "EDevlet.Document.Common\EDevlet.Document.Common.csproj", "{941D084F-6E80-4C3F-BDC8-A6661185A567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document.Creator", "Document.Creator\Document.Creator.csproj", "{A85E7296-06D1-4702-8C01-F3086E95AC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1FC93BB-D646-43B7-8552-6F835076E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FC93BB-D646-43B7-8552-6F835076E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FC93BB-D646-43B7-8552-6F835076E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FC93BB-D646-43B7-8552-6F835076E283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941D084F-6E80-4C3F-BDC8-A6661185A567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941D084F-6E80-4C3F-BDC8-A6661185A567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941D084F-6E80-4C3F-BDC8-A6661185A567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941D084F-6E80-4C3F-BDC8-A6661185A567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85E7296-06D1-4702-8C01-F3086E95AC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85E7296-06D1-4702-8C01-F3086E95AC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85E7296-06D1-4702-8C01-F3086E95AC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85E7296-06D1-4702-8C01-F3086E95AC50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
